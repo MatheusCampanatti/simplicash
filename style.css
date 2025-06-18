@@ -15,3 +15,7 @@ h1, h2, p {
 footer {
   margin-top: 60px;
 }
+.custom-header {
+  background-color: #6092dd !important; /* Azul claro suave */
+}
+
